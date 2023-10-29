@@ -7,3 +7,5 @@ Hit me up on signal
 
 sedihglow#8877
 https://discord.gg/PkywAgUs LAFF CHAT
+
+950 sw 21st ave portland OR 97205 APT #219
