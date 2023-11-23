@@ -19,3 +19,5 @@ Anyone have a can opener for some future french bread pizza curusy of a very poo
 got the pizza stuff awhile back, thank god for keri keller my dearest.
 
 shoot me an email at sedihglow@gmail.com
+
+for the record. credit card fraud and stollen phne. and im getting evicted. life.
