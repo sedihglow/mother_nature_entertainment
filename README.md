@@ -16,4 +16,6 @@ fucking amazing ass time doing fucking wild shit on drugs that dont work? Fake d
 
 Anyone have a can opener for some future french bread pizza curusy of a very poor amazing women at some point?
 
+got the pizza stuff awhile back, thank god for keri keller my dearest.
+
 shoot me an email at sedihglow@gmail.com
