@@ -20,4 +20,5 @@ got the pizza stuff awhile back, thank god for keri keller my dearest.
 
 shoot me an email at sedihglow@gmail.com
 
-for the record. credit card fraud and stollen phone. and im getting evicted. life.
+for the record. credit card fraud and my name got changed on cashapp. Sounds like some homeland security
+nonsense that needs to be resolved. The community is furious about what they have done to our home.
