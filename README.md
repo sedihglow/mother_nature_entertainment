@@ -6,8 +6,9 @@ Hit me up on signal
 253-310-6664
 
 sedihglow#8877
-https://discord.gg/jrTwu4MeEJ   LAFF CHAT Lets talk engineering of all types and physics about physics and stuff. For fun. :)
+https://discord.gg/hHcZK5kK LAFF CHAT Lets talk engineering of all types and physics about physics and stuff. For fun. :)
 
+Portland Towers Appartments Portland Oregon
 950 sw 21st ave portland OR 97205 APT #219
 
 I am the github readme star sedihglow
