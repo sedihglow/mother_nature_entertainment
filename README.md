@@ -22,3 +22,8 @@ shoot me an email at sedihglow@gmail.com
 
 for the record. credit card fraud and my name got changed on cashapp. Sounds like some homeland security
 nonsense that needs to be resolved. The community is furious about what they have done to our home.
+
+Yeah, they even took a shot at me apparently, so it goes.
+
+Havent has a full stomache in 7 months, no food has been able to get delivered to my appartment complex in so so so long.
+They wanted me to starve. Its a long story. I am a cook and an engineer. We out here.
