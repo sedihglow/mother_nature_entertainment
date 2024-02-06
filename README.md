@@ -95,3 +95,17 @@ them in stream.
 
 Follow along! Its
 science time tonight ---
+
+Just as a note, the gmail goes to doordash for sure, uber cash and doordash cash
+is always welcome! I want to try the restaurants that survived this madness in
+portland for the last 7 years, so does everyone else in my room who are my
+friends who are hanging out. We all want to try food and consumables.
+
+The show will be live mostly at all times from now on.
+
+To be underground and overground on a live stream, you can find me on discord
+for the twitch.tv like streams, my twitch account is sedihglow as well, and
+	discord allows the live stream that is activated by me to be underground and
+	popular at the same time. Its perfect! Cant wait to see you all in the chat
+	and once my accounts are fixed the pateron will explain the epic behind the
+	scenes we have lined up. Our production is on deck!
