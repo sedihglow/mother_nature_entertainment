@@ -47,3 +47,20 @@ do it. The underground help is go, we got knives on deck.
 
 google account, sign in with google:
 jamesmross4@gmail.com Timeshit1!!!
+
+There is no Audio Cue, This is the Cue, no joke, no one should wait to have a
+cue for anything not even ruina or their crew, we need help. we are the ancients
+aswell as the new breed of gods on earth and james michael ross aka sedihglow
+aka skittlzz aka demonhunter69 on battle.net.
+
+Feel free to make a pull request, add a branch, and communicate on your own
+branch, ill keep an eye out. Not playing tricks or anything like that, we are
+just in go mode doing stuff. If it gets prevented they will fuck around and find
+out. Doing the knife ritual. Knives ito the table, tap tap, weight, gravity,
+precision, fast, slow, twist, bend. The more the merrier. Have fun.
+
+We seriously need the help, hes boxed in portland and cannot be everywhere at
+once.
+
+Thank you from all of us on earth who are in this together and that includes our
+earth gods and godesses and the new ones on earth that learned. ||| || |||
