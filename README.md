@@ -28,3 +28,22 @@ Yeah, they even took a shot at me apparently, so it goes.
 
 Havent has a full stomache in 7 months, no food has been able to get delivered to my appartment complex in so so so long.
 They wanted me to starve. Its a long story. I am a cook and an engineer. We out here.
+
+Once its bought its out of the cart, feel free to make recomndations are
+changes. I will always take donations on venmo @ sedih, I am 74 dollars negative
+on venmo, and need help with this whole god trying to kill us all situation. We
+need to team up now its time. HELP me and all the earth gods are hungry and we
+need to make this happen. Nows the time, i dont remember the password to uber
+eats but this is doordash, sign in with google. Ill always accept food snacks
+drink and the like, anything extra can go on the free table at portland towers,
+we havent been able to get food in forever, we fighting back now showing mr god
+how its done. Infact we are showing all the gods and godesses what we got,
+yahwayx3 the M's LD's and their whole whatever the fuck have been let known.
+Lets make it happen.
+
+We are the underground, he wanted me to be a social media star, we know how to
+do it. The underground help is go, we got knives on deck.
+
+
+google account, sign in with google:
+jamesmross4@gmail.com Timeshit1!!!
