@@ -64,3 +64,34 @@ once.
 
 Thank you from all of us on earth who are in this together and that includes our
 earth gods and godesses and the new ones on earth that learned. ||| || |||
+
+
+----- NOTE ON MY DELIVER APP CARTS. -----
+
+Feel free to adjust them or do whatever, send something as a gift. Hit me up on
+signal if you want im happy to chat.
+
+The things in the carts are just things from those restaurants i am interested
+in, or the food i have been in the mood for lately, it is not what i need
+donations with. 
+
+IMPORTANT: Feel free to Adjust, purchase, and if needed remove your card.
+You can always donate to venmo @sedih and purchase with my venmo, but i am 74
+dollars in the hole at the moment so that will not work right away. I will
+update if i notice that change. Also can always use uber cash etc, just remove
+your card after. I AM NOT EVEN GOING TO LOOK AT MY CARD INFORMATION AND IT HIS
+HIDDEN ANYWAY. I will try venmo and hope my cashapp which is the @sedihglow
+account's information goes back to normal. My name got changed and my pin and
+poassword got changed in cashapp. My venmo is working but as i said earlier.
+
+Theres a million ways to support, the best way is with food at the moment. We
+are all hungry at portland towers, gods or otherwise, any extra food or support
+goes to my neighbors on the free table at portland towers.
+
+Everyone has been giving me their priceless possessions, i cant wait to show
+them in stream.
+
+---- More updates often on the main branch in this readme. 
+
+Follow along! Its
+science time tonight ---
