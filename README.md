@@ -1,3 +1,31 @@
+If my cash app gets its name changed back to normal, i have the card still.
+I am @sedihglow on cashapp, they changed my name to tony to interigate my two old friends tony for some reason i think.
+
+Otherwise apple cash is good, dunno what i need for that but my current email on my phone is sedihglow@gmail.com
+
+Otherwise venmo @sedih, my sister marissa grahm and my mom diane jensen just sent the last couple if its not private,
+
+Donations welcome! We have to fix the little dude/fake M/yahway/robot ruina problem but thats all gonna be around.
+CURRENTLY the biggest issue is the 3 yahways aka little dude, fake M, and yahway literally fucking 5 timelines.
+We are timeline 1, 2/3 timeline are totally different than the rest, timeline 4 was almost exactly the same as 1 up
+until yesterday, unsure the state of timeline 5 (which was not daisy chained).
+
+Me my friends, the time gods of the world, the ancients and the new gods/godesses appreciate the help!
+
+Write down what you did Feb9/10 if you think you are affected, last i heard 126-555ish people are affected. The issue
+is how they were fucking doing it, trying to make random, seeming smart, no plan, fucking idiot gods. How can you be
+such an evolved being to be able to do time stuff and be so inept and stupid. My fucking godess. 
+
+There are people in the wrong place, We should compile information to find out the right place and where everyone went,
+Seems most of us are on the right track from what ive texted around but we should check it because its fucked what they
+did. Gods/godesses said they got the count on hops. We should check if it affected you,
+
+If you were awake feb9/10 and noticed any little blips or saw anyone bliping around we got to compile information.
+
+I got 74 gods in me protecting my ass and we are all taking it seriously, even gods went for the ride and are concerned.
+
+<3 :D
+
 # LAFF_contact_info
 Hit me up bitches
 
