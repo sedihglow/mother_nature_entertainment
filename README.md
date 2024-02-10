@@ -1,5 +1,11 @@
 
 ---- Important Update ----
+Just say GO TO JAMES or try GO TO HELL or i try COME TO ME/JAMES. Its been working. We need to clear them out of computers. These dumb
+gods keep fucking with food apps, prices, etc. Grassa on 23rd wasnt on doordash again and the one downtown was just because me and
+keri went to the one downtown. I dont know why these fake ass gods based everything on references on my life which is the stupidest
+thing ever. Literally these gods have the personality and intelligence of a 1 month old 2k years ago. Its pathetic God of God of God
+of the original Christianity bitch ass pet diety. Yahway of the Yahway of the Yahway crone sister wanna be bitch.🚡🚡🚡🚡
+
 People got fucked last night timeline wise, feb 9/10, We should hook eachother up on signal and start group chats about
 whats been going down. The timelines got fucked 2 times that i know about, really bad yesterday. :/ We in timeline 1
 (OG one i know of)
