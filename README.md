@@ -1,3 +1,9 @@
+
+---- Important Update ----
+People got fucked last night timeline wise, feb 9/10, We should hook eachother up on signal and start group chats about
+whats been going down. The timelines got fucked 2 times that i know about, really bad yesterday. :/ We in timeline 1
+(OG one i know of)
+
 If my cash app gets its name changed back to normal, i have the card still.
 I am @sedihglow on cashapp, they changed my name to tony to interigate my two old friends tony for some reason i think.
 
@@ -26,6 +32,7 @@ I got 74 gods in me protecting my ass and we are all taking it seriously, even g
 
 <3 :D
 
+---- END IMPORTANT UPDATE ---
 # LAFF_contact_info
 Hit me up bitches
 
