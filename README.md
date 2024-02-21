@@ -1,6 +1,27 @@
+----
+STREAM INFO
+----
+I have streamed on the discord of Blau, twitch.tv/blau !discord in the chat.
+I will also be on my discord as well practicing and the like.
+I will be on twitch when i can.
+I will let people know the best i can when i go live and where. I am still
+learning OBS.
+I am looking forward to doing GTARP improve and do interviews with the gods
+and godesses live in 4k HD color online on NoPixel. Love you 4T, Inspiration!
+I dont pay attention to janitorial. We have been working on voices and 
+characters for a long time during all this, our first stream was a hit!
+We cant wait for the next one.
+
+sedihglow#8877 and with the name change on discord its still just, sedihglow
+https://discord.gg/NwqrKV8yqY , This is LAFF discord, its new, ill stream on here often and also bounce around.
+Link never expires.
+
 -----
 Come here or on the repo for important updates about what the deal is in my life, the god and godess world, and the like.
-Remember kids, pagen means GODESS WORSHIP
+Remember kids, pagen means GODESS WORSHIP. Note, ALL THIS SHIT IS REAL IN PORTLAND AND EVERYONE FUCKING KNOWS IT.
+STOP DENYING IT AND AT LESAT PAY MY ASS AND THE PEOPLE YOU HURT AT PORTLAND TOWERS YOU PIECES OF SHIT GOVERNMENT.
+ALSO, HOMELAND SECURITY BROKE EVERY CONSITUATIONAL RIGHT IN NW PORTLAND AND PORTLAND TOWERS. ARE THEY ABOVE THE
+FUCKING CONSITUATION? GARRISONING PEOPLES HOUSES AND SHIT! COMMON.
 
 UPDATES WILL BE RAPID FROM THIS POINT ON, I WILL TRY TO WRITE SOMETHING ABOUT IT AT LESAT ONCE A DAY, I HAVE A LOT OF
 INFORMATION TO SHARE SO WE CAN FIGHT! JUST PLEASE HOLD THROUGH AND IF YOU DONT WANT TO DONATE TO ME JAMES MICHAEL ROSS,
@@ -134,6 +155,20 @@ security!
 Venmo @sedih
 Apple pay/cash, sedihglow@gmail.com
 
+----
+STREAM INFO
+----
+I have streamed on the discord of Blau, twitch.tv/blau !discord in the chat.
+I will also be on my discord as well practicing and the like.
+I will be on twitch when i can.
+I will let people know the best i can when i go live and where. I am still
+learning OBS.
+I am looking forward to doing GTARP improve and do interviews with the gods
+and godesses live in 4k HD color online on NoPixel. Love you 4T, Inspiration!
+I dont pay attention to janitorial. We have been working on voices and 
+characters for a long time during all this, our first stream was a hit!
+We cant wait for the next one.
+
 sedihglow#8877 and with the name change on discord its still just, sedihglow
 https://discord.gg/NwqrKV8yqY , This is LAFF discord, its new, ill stream on here often and also bounce around.
 Link never expires.
@@ -184,10 +219,6 @@ Lets make it happen.
 
 We are the underground, he wanted me to be a social media star, we know how to
 do it. The underground help is go, we got knives on deck.
-
-
-google account, sign in with google:
-jamesmross4@gmail.com Timeshit1!!!
 
 There is no Audio Cue, This is the Cue, no joke, no one should wait to have a
 cue for anything not even ruina or their crew, we need help. we are the ancients
