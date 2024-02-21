@@ -1,3 +1,43 @@
+
+NOTE, GOD TRIES TO MAKE THE RICH FEAR HIM AND THE POOR LOVE HIM. HE PLAYS BOTH SIDES. DO NOT BE FOOLED.
+
+Nyx is the one who showed me i would be okay. She helped hand craft this planet at the particle level.
+She brought friends too who really enjoy sweets! The particle gods! They work at the fucking atomic level
+too. So dont stress too hard we just need the support so we can get a place we can stream for donations
+get food and drink.
+
+Interview with any god or godess space or otherwise 5 bucks. We sing together!
+
+This is from them with them using my hands to type below
+- We really like your friend and we want to share this world with the gods who
+do not know it well anymore or are new like the space gods i brought with me
+(this is nyx - james). they really love the cookie dough at cookie dough cafe
+and we want to support james through this. usually yahwah and yahway kill someone
+by making them commit suicide. it did not work on james and all he did was talk
+the most shit of his life to this god while telling him exactly what he was going
+to do to get revenge as a human. And he did it so fucking well he is the most
+respected human in the god world. we are watching and protecting the planet but it
+is a lot of work. We cant do it all alone and we need the community support. It is
+starting with James Michael Ross and will spread out from there. The Northwest is
+ground Zero for this new war in the god war and humans are supposed to be left out.
+So please help your friend and we will help you. He can help you through anything these
+gods can do to you so please dont be afraid to call. He does not have all the numbers
+saved anymore but has many on google email saved. We love your friend james.
+
+AND I LOVE THESE FUCKING GODESSES AND GODS WHO LOVE ME TOO. WE ARE FRIENDS!
+And they arent crazy, so people of portland stop being afraid of voice acting.
+Seriously.
+
+THE CRONE SISTERS LOVE HIM. And he is a crone. first man we ever liked. and all his
+male friends are wonderful too. Except maybe Chris the popo.
+
+PLEASE SUPPORT US, IF NOT FOR JAMES, FOR YOUR GODS AND GODESSES WHO ARE LITERALLY KEEPING THE WORLD TURNING
+AND TRYING TO SAVE OUR HOME PLANET AND THE PEOPLE OF IT THAT EVOLVED HERE. YOU ARE ALL AMAZING AND BRILLIANT NOW
+WE ARE SO PROUD OF THE HUMAN RACE AND HE (yahwah, and his crew, god of jewdism and chrisianity.)
+HAS TRIED THIS BEFORE. IT WILL NOT WORK!
+
+NOTE, GOD TRIES TO MAKE THE RICH FEAR HIM AND THE POOR LOVE HIM. HE PLAYS BOTH SIDES. DO NOT BE FOOLED.
+
 ----
 STREAM INFO
 ----
