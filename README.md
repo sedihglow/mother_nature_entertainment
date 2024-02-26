@@ -41,11 +41,15 @@ They pick up my food and stuff, good tips! even if i am in the building. Speadin
 the love from all of us who get the donation support to support the places and
 people we love.
 
-THank you all, anything helps on this cooking and streaming adventure.
+Thank you all, anything helps on this cooking and streaming adventure.
 
 Every cooks dream, have knifes, work a steady easier job, work for free
 to learn the fine techinical skills of different foods from around the
 world, and portland has all of that in one city.
+
+Storyboarding for the stream has been going well! Still just on discord.
+Building up the plot for the character that will entertain the masses! one
+viewer at a time.
 
 ---------------------
 
