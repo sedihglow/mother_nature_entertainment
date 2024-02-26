@@ -36,6 +36,17 @@ Still cant really sign into my account, but ill try again,
 I can use cash app on door dash and tip a door dash driver for
 shoping for me while i sit on my laptop and stream.
 
+IT SUPPORTS THE DOORDASH AND DELIVERY DRIVERS OF THE OTHER APPS I WILL USE ASWELL,
+They pick up my food and stuff, good tips! even if i am in the building. Speading
+the love from all of us who get the donation support to support the places and
+people we love.
+
+THank you all, anything helps on this cooking and streaming adventure.
+
+Every cooks dream, have knifes, work a steady easier job, work for free
+to learn the fine techinical skills of different foods from around the
+world, and portland has all of that in one city.
+
 ---------------------
 
 
