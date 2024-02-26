@@ -1,3 +1,44 @@
+---------------------
+Interesting update on the personal side of things of our realm.
+
+They may have changed my name on a financial instituation, but hey, SHIT STILL WORKS,
+but it also has 0 dollars on it. so.
+
+Anyone wanna pen test and get the attention of the american government and cash app by investing
+in my streaming?
+
+Cash App @seidhglow
+
+Looking for dr.pepper, sushi, sando, pasta, shit anything. NEW SEASONS IS AMAZING!
+
+the whole northwest portland got replaced again by government actors and random shit,
+
+A few buisnesses refused to replace all their workers because they own the place.
+
+ALL PROCEEDS WILL BE GOING TO SUPPORTING THE BUISNESSES THAT GAVE A FUCK YOU TO THE
+AMERICAN GOVERNMENT AND THE GOD ASS BITCH STUFF THATS GOING ON, by standing their ground,
+and staying in their place of buisness and defending their shop.
+
+While i am on a cooking adventure over the next couple months, hopefully with the og
+cooks i have known throughout my life, all our money will go to the buisnesses that
+belong in portland, starting in northwest. The ones who did not change everything and
+give no fucks because we have been in this town for so long, no government ass bitch
+american stuff is gonna stop us from supporting our community we have left standing.
+
+The homeless community was the best community ive been apart of, and we supporting
+the fuck out of eachother.
+
+Lets pen test if they try anything by me using my cash app card.
+
+cash app @sedihglow
+
+Still cant really sign into my account, but ill try again,
+I can use cash app on door dash and tip a door dash driver for
+shoping for me while i sit on my laptop and stream.
+
+---------------------
+
+
 
 NOTE, GOD TRIES TO MAKE THE RICH FEAR HIM AND THE POOR LOVE HIM. HE PLAYS BOTH SIDES. DO NOT BE FOOLED.
 
