@@ -1,3 +1,25 @@
+-------------
+CASH APP UPDATE
+--------------
+Lets pen test if they try anything by me using my cash app card.
+cash app @sedihglow
+
+So last i checked my name was changed to tony on cash app. I still have my
+cashapp card. It is not logging me in right now on the website but instead
+seems to be creating a new account. Which means my phone number changed on
+cash app.
+
+BUT, the card still works, tried it on doordash and it said insufficient
+funds.
+
+So, anyone wanna toss a small donation and see if the card still works, because
+it is my card, and i am sedihglow, (really doesnt have to be a small one, ill
+post if it worked or not, currently wanting grassa or new seasons food!
+
+Cash App @seidhglow
+
+-------------------------
+
 ---------------------
 Interesting update on the personal side of things of our realm.
 
@@ -6,8 +28,6 @@ but it also has 0 dollars on it. so.
 
 Anyone wanna pen test and get the attention of the american government and cash app by investing
 in my streaming?
-
-Cash App @seidhglow
 
 Looking for dr.pepper, sushi, sando, pasta, shit anything. NEW SEASONS IS AMAZING!
 
@@ -27,10 +47,6 @@ american stuff is gonna stop us from supporting our community we have left stand
 
 The homeless community was the best community ive been apart of, and we supporting
 the fuck out of eachother.
-
-Lets pen test if they try anything by me using my cash app card.
-
-cash app @sedihglow
 
 Still cant really sign into my account, but ill try again,
 I can use cash app on door dash and tip a door dash driver for
@@ -52,8 +68,6 @@ Building up the plot for the character that will entertain the masses! one
 viewer at a time.
 
 ---------------------
-
-
 
 NOTE, GOD TRIES TO MAKE THE RICH FEAR HIM AND THE POOR LOVE HIM. HE PLAYS BOTH SIDES. DO NOT BE FOOLED.
 
