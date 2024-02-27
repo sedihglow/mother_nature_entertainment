@@ -1,25 +1,42 @@
+------------
+Looks like the apps on my phone got updated or fixed, prices are looking
+normal and i checked uber eats which i used to use exclusivly, they take
+apple pay now.
+
+For donations to the cause, apple pay seems to be the best way to do it now,
+i can get delivery or pick up with it now and use it in stores for smokes and
+snacks.
+
+New seasons has some great cheap prices on really good food i really want to get down on,
+and easter candy!
+
+Craving that cookie dough!
+
+I am going to be chilling in northwest portland for a bit, roaming aorund.
+
+My body and mind is so exhausted and tired, im trying my best to stay positive.
+
+See section just below to find out what my plans are for the future while trying to
+survive through the madness that is happening around me!
+
+Ill keep trying to stream as much as possible but it is hard being homeless.
+The town has changed and hopefully the right information gets out about how things
+are happening and what the biggest issues are in town.
+
+Thanks for any support for me and the ones around me that are with me spiritually.
+
+:) <3 Ill keep ya posted, (The next step is the cooks dream! STARTING IN PORTLAND
+where me and my best friend and brother matt hancock wanted to achieve it.)
+
+Best part is, portland has food from all over, so it will be a great step into developing
+more of the dream of traveling while working at various restaurants! We just cant seem to
+catch a break and need a shower lol.
+
+
 -------------
-CASH APP UPDATE
---------------
-Lets pen test if they try anything by me using my cash app card.
-cash app @sedihglow
 
-So last i checked my name was changed to tony on cash app. I still have my
-cashapp card. It is not logging me in right now on the website but instead
-seems to be creating a new account. Which means my phone number changed on
-cash app.
-
-BUT, the card still works, tried it on doordash and it said insufficient
-funds.
-
-So, anyone wanna toss a small donation and see if the card still works, because
-it is my card, and i am sedihglow, (really doesnt have to be a small one, ill
-post if it worked or not, currently wanting grassa or new seasons food!
-
-Cash App @seidhglow
-
--------------------------
-
+ Future plans and most recent update about what i want to do. Build up to doing
+ the cooks dream!
 ---------------------
 Interesting update on the personal side of things of our realm.
 
@@ -68,6 +85,29 @@ Building up the plot for the character that will entertain the masses! one
 viewer at a time.
 
 ---------------------
+-------------
+CASH APP UPDATE --- Ignoring testing this now, tried to get on the app and online and non
+success
+--------------
+Lets pen test if they try anything by me using my cash app card.
+cash app @sedihglow
+
+So last i checked my name was changed to tony on cash app. I still have my
+cashapp card. It is not logging me in right now on the website but instead
+seems to be creating a new account. Which means my phone number changed on
+cash app.
+
+BUT, the card still works, tried it on doordash and it said insufficient
+funds.
+
+So, anyone wanna toss a small donation and see if the card still works, because
+it is my card, and i am sedihglow, (really doesnt have to be a small one, ill
+post if it worked or not, currently wanting grassa or new seasons food!
+
+Cash App @seidhglow
+
+-------------------------
+
 
 NOTE, GOD TRIES TO MAKE THE RICH FEAR HIM AND THE POOR LOVE HIM. HE PLAYS BOTH SIDES. DO NOT BE FOOLED.
 
