@@ -1,3 +1,9 @@
+Gifts. apple pay, consumables, you all know what i like.
+We will be eating and drinking a meal on stream before the 3 day
+timer begins for the SC:BW event
+
+https://discord.gg/CXDjdbANsG - fourth link just in case
+https://discord.gg/CXDjdbANsG - third link just in case
 https://discord.gg/CXDjdbANsG LAFF DISCORD WHERE THE 3 DAY EVENT STARTS INTO A LONGER EVENT FOR
 D1 AND HELLS FURY COMING BACK TO LIFE.
 
