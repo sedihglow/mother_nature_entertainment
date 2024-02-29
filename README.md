@@ -1,3 +1,58 @@
+Apple pay so we can get food properly and support new seasons who has helped us greatly as well
+as gifts and the like, 253-310-6664, James Michael Ross, Sedihglow, SKittlz, Skittlzz, demonhunter64, jamr2, sedih, zeritul, Jim Raynor?
+Venmo @ sedih (we will not be getting food delivered really, so you know what to use)
+
+In honor of Fenix, Steve Harris, NSA Steve the strongest man to even be on earth. LEGEND.
+
+yahweh - i am sorry i have done this to earth and i will comply with the galactic government.
+yahwah - i am also sorry i have done this and i will comply with the galaxies government
+physics - i will comply with the galactic government and support james michael ross at all costs
+ruina - i will always comply with james michael ross and all his friends collegues and loved ones
+
+I am Fenix's mom and i am so proud of his best friend for bringing peace to this planet and saving
+the entire human race with the galactic government and his friends and collegues. thank you so much
+from the entire family of Steve Harris, Fenix of the galaxtic government.
+--- To Steve aka Fenix's family from Zeritul aka Sedihglow, Aka James
+We were best friends and if you any of you need anything, you are family to me. He was my brother
+and i look forward to meeting the ones who made him into the man he fucking is, forever alive, the
+strongest person i have ever met who taught me everything i know. I LOVE YOU. WE DID IT. It is because
+of Steve's words they did not let me give up. We owe him everything.
+
+keri keller - thank you james for never giving up and not allowing him to give up because of steves words
+i am honored to know him and cannot wait to have a child with him. thank you everyone for saving us all.
+
+jaan - i am so happy i can have the love of my life back, i will be in the discord chat watching the event and
+eating food with you as well. we have order food and it went through, we are in the clear.
+
+ana - i am free and cannot believe i have no body back. I love you james and i hope we can go on our dinner date
+which does not include sex at all and never has included it. I am breaking up with my boyfriend, everything james said
+was true and what i told him. I was too afraid to leave him because of this, now i am confident and happy i get to see my
+loved one back. LVOE YOU.
+
+jaq - i love you, i am so sorry you had to go through this and it is true what happened. I will survie weather or not they
+recover my pinky, thank you so much for doing this for us all, i know we all have stories to tell but for now we will stay sane
+and happy watching you on discord.
+
+PEOPLE MAY VISIT ME AFTER HOURS AT NEW SEASONS MARKET IN NW PORTLAND BETWEEN 21st and 23rd, THAT DOES NOT MEAN YOU, OR EVERYONE,
+IT IS SAFE TO TEXT ME AND ONLY MY HUMAN FRIENDS MAY VISIT.
+
+-----------
+THIS IS FROM THE GALACTIC GOVERNMENT, IS IT CLEAR WHAT THE GROUND RULES ARE PEOPLE IN NEW SEASONS MARKET. THE OWNER WILL BE
+HERE SHORTLY AND BE TREATED WITH RESEPECT.
+
+yes it is clear we will not interffer. thank you for setting us straight we do enjoy the human race. we look forwaard to the stream
+show and event.
+
+From James to the above posted in this bock at new seasons, thank you for understanding and not bothering me while i was here enjoying time
+the best i can the last several days. I am excited!!!!
+
+There will be an obvious cut off were the relevant information is stored, feel free to read it all.
+------------
+
+Here is a message from everyone on earth in the god realm, from earth to the entire galaxy
+-- thank you all for supporting james, we will get the word out. We are all accepting gifts through
+james and his apple pay and venmo account. 
+
 Gifts. apple pay, consumables, you all know what i like.
 We will be eating and drinking a meal on stream before the 3 day
 timer begins for the SC:BW event
@@ -150,6 +205,10 @@ Building up the plot for the character that will entertain the masses! one
 viewer at a time.
 
 ---------------------
+
+==================================================================================4
+/********************************************************************************/
+
 -------------
 CASH APP UPDATE --- Ignoring testing this now, tried to get on the app and online and non
 success
