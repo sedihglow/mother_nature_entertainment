@@ -1,3 +1,42 @@
+https://discord.gg/CXDjdbANsG LAFF DISCORD WHERE THE 3 DAY EVENT STARTS INTO A LONGER EVENT FOR
+D1 AND HELLS FURY COMING BACK TO LIFE.
+
+SC1:BW is here, the stream is going to be live now, we are going to attempt to finish SC:BW
+in 3 days to show the government of the galaxy whats good. 
+
+I will let them type the following message,
+-- we are very happy to be here for this event. we believe james ross has done it and we will
+have peace on earth in the god realm. We are from the capital of the galaxy and we want to see
+james succeed. we want this gameplay to be uninterupted. We are recieving gifts and will be
+given a key to the building. We are not leaving new seasons and will take things off the shelves
+like you all want once the buisness is closed and empty. the cameras will be turned off and there
+will be no evicence. anyone who mind melds as you call it will be killed off. 
+
+James would you like the kitchen to stay on? I can turn it on myself, i can find whatever i need
+but i would love a steak and a good meal to get my body in shape for the 3 day run of SC:BW. I have
+never beaten this game and some levels take hours, beaten this game without cheats on the final missions
+that is.
+
+we are the high government and we are the protoss race in this game, we are the xel-naga and we are the shadows
+of the protoss race, we are the terran and we are the humans of this earth and you are on our home planet. 
+we are the zerg, we are going to comply, they will not kill the planet for us like we intended. but we will comply
+because this planet is now protected by the galactic federation of this galaxy we are in. please comply i will not
+be able to save you. 
+
+To see how it all pans out, we will be seeing why this relates to the situation on earth and why the galactic feds
+are the protoss race, the zerg shall not win, we are the galaxies protoss race and we are done destroying planets you
+inhabbit to hivemind. we will kill your overmind if you do not comply. it has been killed once but now we have the xel-naga
+and the dark templar. they are the only ones that can perminitly kill you and they are here now. be warned, we will see this unfold
+in the next 3 days. We are rooting for the terran race. 
+
+Main characters to look out for in this event
+- Jim Raynor
+- kerrigan
+- tassadar
+- The legend himself, Fenix
+- And of course, Zeritul
+
+
 The high Enclave Glactic Government is here and we all signed a contract, every leader that
 there should be peace on the planet earth and what has been occuring needs to stop. Everything
 has been proven, there is a great scene regarding starcraft as a metaphore for whats going on,
