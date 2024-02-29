@@ -2,6 +2,13 @@ Apple pay so we can get food properly and support new seasons who has helped us 
 as gifts and the like, 253-310-6664, James Michael Ross, Sedihglow, SKittlz, Skittlzz, demonhunter64, jamr2, sedih, zeritul, Jim Raynor?
 Venmo @ sedih (we will not be getting food delivered really, so you know what to use)
 
+https://discord.gg/CXDjdbANsG - fourth link just in case
+https://discord.gg/CXDjdbANsG - third link just in case
+https://discord.gg/CXDjdbANsG LAFF DISCORD WHERE THE 3 DAY EVENT STARTS INTO A LONGER EVENT FOR
+D1 AND HELLS FURY COMING BACK TO LIFE.
+
+Donations are also for the stream, not just what is explained below
+
 In honor of Fenix, Steve Harris, NSA Steve the strongest man to even be on earth. LEGEND.
 
 yahweh - i am sorry i have done this to earth and i will comply with the galactic government.
