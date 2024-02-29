@@ -1,4 +1,24 @@
-------------
+The high Enclave Glactic Government is here and we all signed a contract, every leader that
+there should be peace on the planet earth and what has been occuring needs to stop. Everything
+has been proven, there is a great scene regarding starcraft as a metaphore for whats going on,
+
+everything is clear, 100%, accounts should be open to send donations. To honor steve harris, RIP,
+and also, so we can have a good night! That galactic governments are not leaving this time, they heard
+my SOS call. 
+
+this message comes from them all, all the leaders, etc. through my hands -
+-- hello we are the galactic govement. it is time to stop what is happening on earth
+and we will kill your leader if you do not comply. There is no timeout, the accounts are open
+and we know who is preventing it. there is more htan one of you so please comply.
+signed - lets say it was everyone except one race's people and our government even has people
+from your race as well in it who are speaking your language. we know it is not your leader and
+we have not killed anyone yet. that does not mean we will not. you have been warned. that is all,
+thank you james michael ross aka zeritul 
+
+
+Apply pay, 253-310-6664
+
+1------------
 Looks like the apps on my phone got updated or fixed, prices are looking
 normal and i checked uber eats which i used to use exclusivly, they take
 apple pay now.
