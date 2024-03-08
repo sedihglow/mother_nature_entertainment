@@ -19,6 +19,8 @@ Contact Information:
 					 text preffered - Signal Messenger
 					 If Phone Call - Leave a voicemail and i will get back to
 									 you asap.
+					 Personal Discord/main stream location - 
+												https://discord.gg/CXDjdbANsG
 
 					 Ruina - Taking a break from calls and contacts which are
 					 for inquiry until further notice.
