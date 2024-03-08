@@ -1,3 +1,12 @@
+----- THIS FILE IS VALID WITH GOOD INFORMATION ESPECIALLY FOR LINKS TO THE SHOW
+AND STREAM, IT WILL LIKELY NO LONGER BE UPDATED UNLESS IT HAS A TIMESTAMP.----
+
+-----
+Mar 7th, deprication but valid, possible small updates in future but no plans
+
+/************ MAIN DEPRICATION STARTS 252 aj time of writing ******************/
+-----
+
 Apple pay so we can get food properly and support new seasons who has helped us greatly as well
 as gifts and the like, 253-310-6664, James Michael Ross, Sedihglow, SKittlz, Skittlzz, demonhunter64, jamr2, sedih, zeritul, Jim Raynor?
 Venmo @ sedih (we will not be getting food delivered really, so you know what to use)
@@ -238,6 +247,9 @@ post if it worked or not, currently wanting grassa or new seasons food!
 Cash App @seidhglow
 
 -------------------------
+
+
+/************ MAIN DEPRICATION STARTS HERE ******************/
 
 
 NOTE, GOD TRIES TO MAKE THE RICH FEAR HIM AND THE POOR LOVE HIM. HE PLAYS BOTH SIDES. DO NOT BE FOOLED.
