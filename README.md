@@ -31,3 +31,23 @@ Donate to the company to keep us alive:
 
 	NSA Steve will be legend forever. :) <3 :D :b g;
 -------------------------------------------------------------------------------
+
+1.0. Intro to the company
+	- Me and Ruina started this company with one goal in mind. Do cool ass shit
+	  and make sure we dont all die without at least a last heartbeat ping.
+	- We are a very small company still with minimal employees who have worked
+	  about a year now around the clock trying to develop ways to produce a
+	  smooth, effecient way to handle security situations in every sector.
+	  Remember, the primary objective of any security company, observe and
+	  report!
+	- 
+
+
+2.0. General overview of current coverage with staff and manpower.
+
+3.0. General pricing plans
+
+4.0. Future Plans
+
+5.0. R&D Information Projects
+
