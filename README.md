@@ -20,10 +20,11 @@ Contact Information:
 					 If Phone Call - Leave a voicemail and i will get back to
 									 you asap.
 					 Personal Discord/main stream location - 
-												https://discord.gg/CXDjdbANsG
+											https://discord.gg/CXDjdbANsG
 
 					 Ruina - Taking a break from calls and contacts which are
 					 for inquiry until further notice.
+
 Donate to the company to keep us alive:
 	Feel free to donate to the start-up if you have liked our work! It will be
 	shared around the company deity's included. We are all just trying to get 
