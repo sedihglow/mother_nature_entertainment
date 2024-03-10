@@ -1,3 +1,8 @@
+Not my Black Magicks - Whats Yours?
+
+![image](https://github.com/sedihglow/mother_nature_entertainment/assets/15099211/18733fe6-7b44-4b10-83c4-1cead764d8e7)
+
+
 -------------------------------------------------------------------------------
 File: README.md: 
 				 Current main readme for the public repo of the Pegasus 
