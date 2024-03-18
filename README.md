@@ -1,5 +1,5 @@
 ST.PATTIES EVENT! one buisness is still not started
-but today! be one! bring my oumpkin and wands if you have
+but today! be one! bring my pumpkin and wands if you have
 them!
 
 the slowest bar in town. im sippin on a classic
