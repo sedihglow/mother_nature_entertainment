@@ -9,7 +9,9 @@ chillin.
 see link below for yhe st. paddies special. 
 https://youtu.be/dwhvYQsoenQ?si=6ZGo7zX387HM2tM0
 
+so, i dony know how to do the github app upload on a phone. 
 
+hi. 
 
 Not my Black Magicks - Whats Yours?
 
