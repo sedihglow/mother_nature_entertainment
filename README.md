@@ -1,3 +1,12 @@
+ST.PATTIES EVENT! one buisness is still not started
+but today! be one! bring my oumpkin and wands if you have
+them!
+
+the slowest bar in town. im sippin on a classic
+chillin. 
+
+
+
 Not my Black Magicks - Whats Yours?
 
 ![image](https://github.com/sedihglow/mother_nature_entertainment/assets/15099211/18733fe6-7b44-4b10-83c4-1cead764d8e7)
