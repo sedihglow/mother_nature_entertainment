@@ -5,6 +5,8 @@ them!
 the slowest bar in town. im sippin on a classic
 chillin. 
 
+https://youtu.be/dwhvYQsoenQ?si=6ZGo7zX387HM2tM0
+
 
 
 Not my Black Magicks - Whats Yours?
