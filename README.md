@@ -1,3 +1,402 @@
+HERE IS HOW YOU REMOVE THE ALIEN ASS "GOD" BOTS FROM YOUR SHIT, IT MIGHT WORK FOR YOU AND
+ITS BEEN WORKING TODAY FOR ME AND ME DOING IT IS HELPING PEOPLE,
+
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+
+
+remove your "insert word" bot
+or remove you'r "insert word" bot
+
+MANY BOTS ARE RULES OF 3 (POSSIBLE SOME 4 ONES),
+anti-
+pro-
+NOT ALL THE RULE OF 3 STUFF IS ANTI PRO STUFF, SOMETIMES ITS JUST
+3 DIFFERENT WORDS THAT MEAN SOMETHING OPPOSIT AND IN THE MIDDLE.
+
+remove your present bot
+remove your future bot
+remove your past bot
+
+I GOT GOD ON A SHIT TON OF RULES OF THREE BUT THEY ARE ALL ESCAPING ME BECAUASE
+WELL, ITS EASY TO TELL WHEN ITS A BOT IF ITS NEW. LAFF.
+
+Its so stupid. 
+
+remove your god removal bot
+remove your removal bot
+remove your ancient removal bot
+remove your current removal bot
+remove your capture bot
+remove your cronie bot
+remove your witch bot
+remove your hut bot
+remove your home bot
+remove your evict bot
+remove your eviction bot
+remove your logic bot
+remove your illogical bot
+remove your or bot
+remove your and bot
+remove your not bot
+remove your buffer bot
+remove your transister bot
+remove you MOSFet bot
+remove your switch bot
+remove your undefined bot
+remove your Vh bot
+remove your Vl bot
+remove your 0 bot
+remove your 1 bot
+remove your low bot
+remove your high bot
+remove your undefined bot
+remove your infity-steps bot
+remove your next-step bot
+remove your profic bot
+remove you question bot
+remove your answer bot
+remove your statement bot
+remove your comment bot
+remove your mitnick bot
+remove your kevin bot
+remove your kevin mitnick bot
+remove your max bot
+remove your luna bot
+remove your joal bot
+remove your miles bot
+remove your pope house bot
+
+
+SHITS THIS STUPID DUDE.
+remove your hangover bot
+remove your native bot
+remove your native spirit bot
+remove your native american bot
+remove your india bot
+remove your indian bot
+remove your americas bot
+remove your lang bot
+remove your buddah bot
+remove your time bot
+remove your timeline bot
+remove your back-in-time bot
+remove your forward-in-time bot
+remove your present bot
+remove your future bot
+remove your past bot
+
+remove your man bot
+remove your middle bot
+remove your human bot
+remove your host bot
+remove your paracitic bot
+remove your patasite bot
+
+CONTRIBUTE TO THIS FUCKING LIST.
+
+
+remove yor ha bot
+remove your hihi bot
+remove your haha bot
+remove your hahaha bot
+remove your crone bot
+remove your sister bot
+remove your sisters bot
+remove your free bot
+remove your pay bot
+remove your cash bot
+remove your digital-currency bot
+remove your stocks bot
+remove your glitch bot
+remove your panic bot
+remove your confuse bot
+remove your confused bot
+remove your confusing bot
+remove your power bot
+remove your low-power bot
+remove your 3.3 bot
+remove your 3.5seconds bot
+remove your multiverse bot
+remove your string bot
+remove your string-theory bot
+remove your color bot
+remove your manipulate bot
+remove your anti-manupulate bot
+remove your pro-manipulate bot
+remove your brainwash bot
+remove your subliminal bot
+remove your message bot
+remove your messaging bot
+remove your mag bot
+remover your gun bot
+remove your clip bot
+remove your threat bot
+remove your test bot
+remove your attack bot
+remove your defense bot
+remove your ooglop bot
+remove your frog bot
+remove your king bot
+remove your cuff bot
+remove your earing bot
+remove your queen bot
+remove your bots.
+remove discrete-math bot (SOMETIMES ITS BULLSHIT COMPOUND WORD WITH A - IN THERE, WHICH IS STUPID.)
+Or just something that has 3 states, like good neutral bad etc.
+remove your love bot
+remoe your hate bot
+remove your care bot
+remove your dont bot
+remove your 't bot
+remove your bang bot (!)
+remoe your double-bang bot
+remove your what bot
+remove your yeah bot
+remove your candy bot
+remove your particle bot
+remove your sweets bot
+remove your sweet bot
+remove your dont-care bot
+remove your i-care bot
+remove your help bot
+remove your steril bot
+remove your literal bot
+remove your anger bot
+remove your discrete-math bot
+
+
+remove your mumble bot
+remove your loud bot
+remove your quiet bot
+remove your normal bot
+remove your medium bot
+remove your high bot
+remove your stoned bot
+remove your stone bot
+remoe your lit bot
+remove your sober bot
+remove your vex bot
+remove your hex bot
+
+remove your anarchy bot
+remove your tragety bot
+remove your og bot
+remove your military bot
+remove your air foce bot
+remove your diane bot
+remove your parent bot
+remove your parents bot
+remove your family bot
+remove your familys bot
+remove your quantum bot
+remove your micro bot
+remove your macro bot
+remove your economy bot
+remove your pcc bot
+remove your nuetral bot
+remove your recomondation bot
+remove your no-recomondation bot
+remove your always recomend bot (youll get the idea this one might not work)
+remove your richie bot
+remove your gpg bot
+remove your gpgpgp bot
+remove you echo bot
+
+ITS THAT DUMB, THERES A BOT FOR FUCKING EVERYTHING EVEN WORDS FROM SHOWS AND A COMPUTER.
+
+remover your world bot
+remove your universe bot
+remove your planet bot
+remove your defense bot
+remove your sheild bot
+remove your katana bot
+remove your knife bot
+remove your cook bot
+remove your industry bot
+remove your store bot
+remove your earth bot
+
+remove your space bot
+remove your rocket bot
+remove your eye bot
+remove your color bot
+remove your doctor bot
+remove your block bot
+remove your psyc bot
+remove your ward bot
+remove your phd bot
+remove your christ bot
+remove your seth bot
+remove your josh bot
+remove your brad bot
+remove your chemistry bot
+remove your chem bot
+remove your dealer bot
+remove your debt bot
+remove your waste bot
+remove hot bot
+remove your cold bot
+remove your warm bot
+remove your fuzzy bot
+remove your logic bot
+remove your paradox bot
+
+remove your good bot
+remove your anti-good bot
+reomve your pro-good bot
+remove your evil bot
+remove your fuck bot
+remove your pro-fuck bot
+remove your anti-fuck bot
+remove your shit bot
+remove your anti-shit bot
+remove your pro-shit bot
+
+remove your anti-gravity bot
+remove your gravity bot
+remove your pro-gravity bot
+
+remove your fat bot
+remove your anarexic bot
+remove your balimic bot
+remove your religion bot
+remove your spirit bot
+remove your spirituality bot
+
+remove your mathmatics bot
+remove your maths bot
+remove your movie bot
+remove your netflix bot
+remove your hulu bot
+remove your sub bot
+remove your subscription bot
+remove donation bot
+remove your dono bot
+remove your chelse bot
+remove your chelsey bot
+remove your sodakite bot
+remove your twitch bot
+remove your twitch.tv bot
+remove your period bot
+remove your blood bot
+remove your trans bot
+remove your zer bot
+remove your male bot
+remove your women bot
+remove your femal bot
+remove your penta bot
+remove your snoop bot
+remove your company bot
+remove your entertainment bot
+remove your mother bot
+remover your mother-nature bot
+
+REMEMBER MANY ARE IN 3s
+remove your trifecta bot
+remove your 6 bot
+remove your number bot
+remove your discrete bot
+remove your digital bot
+
+
+ETC. Lots of things have two sides and a nutral.
+
+Remove your hacker bot
+remove your hack bot
+remove your programming bot
+remove your media bot
+remove your political bot
+remove your politics bot
+
+remove your asian bot
+remove your afircan bot
+remove your hate bot
+remove your homo bot
+remove your gay bot
+remove your depressed bot
+
+remove your no bot
+remove your yes bot
+remove your maybe bot
+remove your perhaps bot
+
+
+Example:
+remove your moral bot
+remove your mortality bot
+remove your good bot
+remove your anti-evil bot 
+remove your mental bot
+remove your illness bot
+remove your skitzo bot
+remove your skittlz bot
+remove your sedih bot
+remove your jamr bot
+remove your jamr2 bot
+remove your blood bot
+remove your gravity bot
+remove your pressure bot
+remove your food bot
+remove your taste bot
+remove your smell bot
+remove your anti-smell bot
+remove your kill bot
+remove your sucide bot
+remove your anti-sucide bot
+remove your drug bot
+remove your fetty bot
+remove your anti-fetty bot
+remove your narcan bot
+remove your anti-arcan bot
+remove your pro-narcan bot
+remove your ancient bot
+remove your ruina bot
+remove your pro-james bot
+remove your god bot
+remove your news bot
+remove your new bot
+remove your trust bot
+remove your anti-trust bot
+remove your wind bot
+remove your water bot
+remove your fire bot
+remove your anti-fire bot
+remove your blow-torch bot
+remove your zues bot
+remove your <insert god name here> bot (its all yahways bots)
+remove your lightning bot
+remove your blitz bot
+remove your blitzcreig bot
+remove your british bot
+remove your scottish bot
+remove your bracelet bot
+remove your race bot
+remove your racist bot
+remove your s bot
+remove your 's bot
+remove your ' bot
+remove your stop bot
+remove your go bot
+remove your buffer bot
+remove your array bot
+remove your linker bot
+remove your gcc bot
+remove your g++ bot
+remove your pc bot
+remove your window bot
+remove your windows bot
+
+
+
 ST.PATTIES EVENT! one buisness is still not started
 but today! be one! bring my pumpkin and wands if you have
 them!
