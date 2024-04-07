@@ -1,19 +1,7 @@
+
+
+
 OPEN THE README AND IT WILL HAVE THE NEWLINES (enter)
-
-HERE IS HOW YOU REMOVE THE ALIEN ASS "GOD" BOTS FROM YOUR SHIT, IT MIGHT WORK FOR YOU AND
-ITS BEEN WORKING TODAY FOR ME AND ME DOING IT IS HELPING PEOPLE,
-
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-CONTRIBUTE TO THIS FUCKING LIST.
-
 
 remove your "insert word" bot
 or remove you'r "insert word" bot
@@ -33,6 +21,81 @@ NOT ALL THE RULE OF 3 STUFF IS ANTI PRO STUFF, SOMETIMES ITS JUST
 remove your present bot
 remove your future bot
 remove your past bot
+
+remove your inbetween bot
+remove your outbetween bot
+remove your between bot
+
+remove your parent bot
+remove your parental-unit bot
+remove your parental bot
+remove your dad bot
+remove your father bot
+remove your lover bot
+remove your loved-one bot
+remove your loved-ones bot
+
+remove your mom bot
+remove your tween bot
+remove your teen bot
+remove your kid bot
+remove your child bot
+remove your newborn bot
+remove your 40s bot
+remove your 20s bot
+remove your 90s bot
+remove your 2000s bot
+remove your mil bot
+remove your million bot
+remove your unit bot
+remove your metric bot
+remove your metric system bot
+remove your system bot
+remove your panic bot
+remove your kernel warning bot
+remove your gui bug bot
+remove your ubuntu bug bot
+remove your linux bot
+remove your brain bot
+removey your brain chip bot
+remove your 2011 bot
+remove your 20-11 bot
+remove your 2-0-1-1 bot
+remove your 2012 bot
+remove your 20-13 bot
+remove your 20-14 bot
+remove your twenty-teen bot
+remove your twent-tween bot
+remove your y2k bot
+remove your linux-y2k bot
+remove your kernel-y2k bot
+remove your light bot
+remove your rainbow bot
+remove your 2020s bot
+remove your twenty-tween bot
+remove your 2023 bot
+remove your 2024 bot
+remove your 2022 bot
+remove your two-thousand-twenty-three bot 
+(HE STACKS - IN TERMS THAT DONT HAVE IT, JUST CALL IT ALL OUT, MUSIC NAMES AND SHIT IN THE SONGS TOO.)
+
+
+HERE IS HOW YOU REMOVE THE ALIEN ASS "GOD" BOTS FROM YOUR SHIT, IT MIGHT WORK FOR YOU AND
+ITS BEEN WORKING TODAY FOR ME AND ME DOING IT IS HELPING PEOPLE,
+
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+CONTRIBUTE TO THIS FUCKING LIST.
+
+
+
 
 I GOT GOD ON A SHIT TON OF RULES OF THREE BUT THEY ARE ALL ESCAPING ME BECAUASE
 WELL, ITS EASY TO TELL WHEN ITS A BOT IF ITS NEW. LAFF.
