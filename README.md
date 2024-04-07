@@ -1,6 +1,3 @@
-
-
-
 OPEN THE README AND IT WILL HAVE THE NEWLINES (enter)
 GO TO THE README IN THE FILES AND CLICK RAW TO SEE THE FILE ON THE WEBBROWSER
 ACCURATELY AND CLEANLY
@@ -20,6 +17,93 @@ remove ion bot
 remove ionization bot
 remove de-ionization bot
 remove reionization bot
+
+HE LITERALLY WILL TAKE SAY A SONG WITH 6 WORDS AND PUT '-' IN BETWEEN EACH WORD
+SO ITS "ONE" WORD. THE ONE WORD KEY HE IS SOOOOOOO SMART TO HIMSELF AND NO ONE ELSE
+THE FUCKING BITCH ASS ALIEN GOD YAHWAY GOD SERIOUSLY THINKS ADDING A '-' between words
+that arent that way in any language will outsmart the universe itself. ISNT HE SO SMART TO
+THINK THE - WILL DO THAT?
+
+yahways, if your the only one that thinks something is smart, and no one thinks that you are smart,
+but you think your a unkillable necissary to the world genious, that means your retarded.
+
+remove your retarded bot
+remove your genetic-defect bot
+remove your greg bot
+remove your greg-brady bot
+remove your communication bot
+remove your community bot
+remove your posession bot
+remove your unity bot
+remove your indivduality bot
+remove your my-individuality but
+remove your burned-individuatily bot
+remove your burned-friendship-individuality bot
+remove your five bot
+remove your reroll bot
+remove your boogy bot
+remove your liam bot
+remove your iron-maiden bot
+remove your bruce bot
+remove your bruce dickensen bot
+remove your fear bot
+remove your circle jerks bot
+remove your WoW bot
+remove your world bot
+remove your world of warcraft bot
+remove your counterstrike bot
+remove your global offensive bot
+remove your repeat-word bot
+remove your repeat-word-over-and-over bot
+remove your round-and-round bot 
+remove your CLR bot
+remove your come-live-the-riot bot
+remove yourd-beat bot
+remove your miller bot
+remove your josh miller bot
+remove your yoshi bot
+remove your chef bot
+remove your cook bot
+remove your professional bot
+remove your strip bot
+remove your club bot
+remove your professional-cook bot
+remove your shit bot
+remove your shit-wage bot
+remove your low-wage bot
+remove your rich bot
+remove your park bot
+remove your washington bot
+remove your washington-park bot
+remove your crane bot
+remove your construction bot
+remove your site bot
+remove your A bot
+remove your B bot
+
+remove your minus bot
+remove your tack bot
+remove your lube bot
+remove your dash bot
+remove your hyphen bot
+remove your tilde bot
+remove your alegator bot
+remove your grater-than bot
+
+remove your string bot
+remove your integer bot
+remove your character bot
+remove your 3-bit-pattern bot
+remove your blue-lips bot
+remove your pavlovs-daughter bot
+remove your back-of-a-truck bot
+remove your abracadabra bot
+remove your wigi-board bot
+remove your wand bot
+remove your grow bot
+remove your mother-nature bot
+remove your mother bot
+
 NOT ALL THE RULE OF 3 STUFF IS ANTI PRO STUFF, SOMETIMES ITS JUST
 3 DIFFERENT WORDS THAT MEAN SOMETHING OPPOSIT AND IN THE MIDDLE.
 
@@ -30,6 +114,23 @@ remove your past bot
 remove your inbetween bot
 remove your outbetween bot
 remove your between bot
+
+remove your easy-way-out bot
+remove your jocker-in-the-pack bot
+remove your clockwork bot
+remove your machinarium bot
+remove your limbo bot
+remove your starcraft bot
+remove your starcraft-boodwar bot
+remove your sc2 bot
+remove your lyrics bot
+remove your song bot
+remove your song name bot
+remove your song title bot
+remove your music bot
+remove your clockwork-opperetta bot
+
+
 
 remove your parent bot
 remove your parental-unit bot
