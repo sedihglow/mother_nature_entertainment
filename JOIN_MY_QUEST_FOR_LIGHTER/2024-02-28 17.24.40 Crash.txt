@@ -1,0 +1,396 @@
+==============================================================================
+Bootstrapper:  (build 3141)
+
+Exe:      Z:\home\j\Downloads\Battle.net-Setup.exe
+Time:     Feb 28, 2024  5:24:41.950 PM
+User:     steamuser
+Computer: JAMR
+------------------------------------------------------------------------------
+
+This application has encountered a critical error:
+
+ERROR #1 (0x13370001) Fatal Exception
+Program:	Z:\home\j\Downloads\Battle.net-Setup.exe
+Exception:	0xc0000005 (ACCESS_VIOLATION) at 0023:7B2E36C7
+
+The instruction at "0x7B2E36C7" referenced memory at "0x80750004".
+The memory could not be read.
+
+Crashed Thread:	0x00000128
+
+<Application>Bootstrapper
+<BlizzardError.ProjectId>127
+<BlizzardError.Module>Bootstrapper
+<BlizzardError.BuildNumber>Bootstrapper 1.18.10.3141
+<BlizzardError.Platform>All PC
+<BlizzardError.DesktopOS>Win
+<BlizzardError.IssueType>Exception
+<BlizzardError.Priority>None
+
+<Exception.Summary:>
+0xc0000005 (ACCESS_VIOLATION) at 0023:7B2E36C7 : error 1: ERROR #1 (0x13370001) Fatal Exception
+<:Exception.Summary>
+
+<Exception.Assertion:>
+DBG-ADDR<7b2e2828>("oleaut32.dll")
+DBG-ADDR<7b2e2631>("oleaut32.dll")
+DBG-ADDR<7bb9d8d8>("UIAutomationCore.DLL")
+DBG-ADDR<7bb89260>("UIAutomationCore.DLL")
+DBG-ADDR<7bb83760>("UIAutomationCore.DLL")
+DBG-ADDR<7bb9eb70>("UIAutomationCore.DLL")
+DBG-ADDR<7bb95b47>("UIAutomationCore.DLL")
+DBG-ADDR<7bb84c82>("UIAutomationCore.DLL")
+DBG-ADDR<5012bc>("Battle.net-Setup.exe")
+DBG-ADDR<40f18b>("Battle.net-Setup.exe")
+DBG-ADDR<4100ba>("Battle.net-Setup.exe")
+DBG-ADDR<410273>("Battle.net-Setup.exe")
+DBG-ADDR<408a5f>("Battle.net-Setup.exe")
+DBG-ADDR<4082c9>("Battle.net-Setup.exe")
+DBG-ADDR<7b517448>("user32.dll")
+DBG-ADDR<7b56a6e9>("user32.dll")
+DBG-ADDR<7b56f78c>("user32.dll")
+DBG-ADDR<7b56f613>("user32.dll")
+DBG-ADDR<7b52b81b>("user32.dll")
+DBG-ADDR<406fdc>("Battle.net-Setup.exe")
+DBG-ADDR<4026e4>("Battle.net-Setup.exe")
+DBG-ADDR<53b602>("Battle.net-Setup.exe")
+
+<:Exception.Assertion>
+
+<Exception.HashBlock:>
+DBG-OPTIONS<FunctionsOnly>
+DBG-ADDR<7b2e2828>("oleaut32.dll")
+DBG-ADDR<7b2e2631>("oleaut32.dll")
+DBG-ADDR<7bb9d8d8>("UIAutomationCore.DLL")
+DBG-ADDR<7bb89260>("UIAutomationCore.DLL")
+DBG-ADDR<7bb83760>("UIAutomationCore.DLL")
+DBG-ADDR<7bb9eb70>("UIAutomationCore.DLL")
+DBG-ADDR<7bb95b47>("UIAutomationCore.DLL")
+DBG-ADDR<7bb84c82>("UIAutomationCore.DLL")
+DBG-ADDR<5012bc>("Battle.net-Setup.exe")
+DBG-ADDR<40f18b>("Battle.net-Setup.exe")
+DBG-ADDR<4100ba>("Battle.net-Setup.exe")
+DBG-ADDR<410273>("Battle.net-Setup.exe")
+DBG-ADDR<408a5f>("Battle.net-Setup.exe")
+DBG-ADDR<4082c9>("Battle.net-Setup.exe")
+DBG-ADDR<7b517448>("user32.dll")
+DBG-ADDR<7b56a6e9>("user32.dll")
+DBG-ADDR<7b56f78c>("user32.dll")
+DBG-ADDR<7b56f613>("user32.dll")
+DBG-ADDR<7b52b81b>("user32.dll")
+DBG-ADDR<406fdc>("Battle.net-Setup.exe")
+DBG-ADDR<4026e4>("Battle.net-Setup.exe")
+DBG-ADDR<53b602>("Battle.net-Setup.exe")
+DBG-OPTIONS<>
+
+<:Exception.HashBlock>
+
+
+Showing 16 threads...
+======================
+
+
+Thread 1/16 - Thread Id: 296
+======================
+
+DBG-ADDR<7b2e2828>("oleaut32.dll")
+DBG-ADDR<7b2e2631>("oleaut32.dll")
+DBG-ADDR<7bb9d8d8>("UIAutomationCore.DLL")
+DBG-ADDR<7bb89260>("UIAutomationCore.DLL")
+DBG-ADDR<7bb83760>("UIAutomationCore.DLL")
+DBG-ADDR<7bb9eb70>("UIAutomationCore.DLL")
+DBG-ADDR<7bb95b47>("UIAutomationCore.DLL")
+DBG-ADDR<7bb84c82>("UIAutomationCore.DLL")
+DBG-ADDR<5012bc>("Battle.net-Setup.exe")
+DBG-ADDR<40f18b>("Battle.net-Setup.exe")
+DBG-ADDR<4100ba>("Battle.net-Setup.exe")
+DBG-ADDR<410273>("Battle.net-Setup.exe")
+DBG-ADDR<408a5f>("Battle.net-Setup.exe")
+DBG-ADDR<4082c9>("Battle.net-Setup.exe")
+DBG-ADDR<7b517448>("user32.dll")
+DBG-ADDR<7b56a6e9>("user32.dll")
+DBG-ADDR<7b56f78c>("user32.dll")
+DBG-ADDR<7b56f613>("user32.dll")
+DBG-ADDR<7b52b81b>("user32.dll")
+DBG-ADDR<406fdc>("Battle.net-Setup.exe")
+DBG-ADDR<4026e4>("Battle.net-Setup.exe")
+DBG-ADDR<53b602>("Battle.net-Setup.exe")
+
+Thread 2/16 - Thread Id: 316
+======================
+
+DBG-ADDR<7bc701e2>("kernelbase.dll")
+DBG-ADDR<521043>("Battle.net-Setup.exe")
+DBG-ADDR<520fa4>("Battle.net-Setup.exe")
+DBG-ADDR<46b757>("Battle.net-Setup.exe")
+
+Thread 3/16 - Thread Id: 340
+======================
+
+DBG-ADDR<7bc701e2>("kernelbase.dll")
+DBG-ADDR<423188>("Battle.net-Setup.exe")
+DBG-ADDR<4246a6>("Battle.net-Setup.exe")
+DBG-ADDR<41d135>("Battle.net-Setup.exe")
+DBG-ADDR<41dbb6>("Battle.net-Setup.exe")
+DBG-ADDR<41d7e6>("Battle.net-Setup.exe")
+DBG-ADDR<41e7cd>("Battle.net-Setup.exe")
+DBG-ADDR<46b757>("Battle.net-Setup.exe")
+
+Thread 4/16 - Thread Id: 356
+======================
+
+DBG-ADDR<7b478ff1>("rpcrt4.dll")
+DBG-ADDR<7b45a9c3>("rpcrt4.dll")
+
+Thread 5/16 - Thread Id: 388
+======================
+
+DBG-ADDR<7bc701e2>("kernelbase.dll")
+DBG-ADDR<7b47356b>("rpcrt4.dll")
+DBG-ADDR<7b459860>("rpcrt4.dll")
+DBG-ADDR<7b458113>("rpcrt4.dll")
+DBG-ADDR<7b45a4c8>("rpcrt4.dll")
+
+Thread 6/16 - Thread Id: 392
+======================
+
+DBG-ADDR<7bc701e2>("kernelbase.dll")
+DBG-ADDR<7b47356b>("rpcrt4.dll")
+DBG-ADDR<7b459860>("rpcrt4.dll")
+DBG-ADDR<7b458113>("rpcrt4.dll")
+DBG-ADDR<7b45a4c8>("rpcrt4.dll")
+
+Thread 7/16 - Thread Id: 396
+======================
+
+DBG-ADDR<7bc701e2>("kernelbase.dll")
+DBG-ADDR<7b47356b>("rpcrt4.dll")
+DBG-ADDR<7b459860>("rpcrt4.dll")
+DBG-ADDR<7b458113>("rpcrt4.dll")
+DBG-ADDR<7b45a4c8>("rpcrt4.dll")
+
+Thread 8/16 - Thread Id: 400
+======================
+
+
+Thread 9/16 - Thread Id: 404
+======================
+
+DBG-ADDR<7bc701e2>("kernelbase.dll")
+DBG-ADDR<7b47356b>("rpcrt4.dll")
+DBG-ADDR<7b459860>("rpcrt4.dll")
+DBG-ADDR<7b458113>("rpcrt4.dll")
+DBG-ADDR<7b45a4c8>("rpcrt4.dll")
+
+Thread 10/16 - Thread Id: 428
+======================
+
+DBG-ADDR<7bf6f816>("ntdll.dll")
+DBG-ADDR<7bc62f11>("kernelbase.dll")
+DBG-ADDR<529f78>("Battle.net-Setup.exe")
+DBG-ADDR<52921c>("Battle.net-Setup.exe")
+DBG-ADDR<5291bb>("Battle.net-Setup.exe")
+DBG-ADDR<5290df>("Battle.net-Setup.exe")
+DBG-ADDR<5292e9>("Battle.net-Setup.exe")
+DBG-ADDR<43b343>("Battle.net-Setup.exe")
+DBG-ADDR<4bbabe>("Battle.net-Setup.exe")
+DBG-ADDR<4b7809>("Battle.net-Setup.exe")
+DBG-ADDR<43b4a8>("Battle.net-Setup.exe")
+
+Thread 11/16 - Thread Id: 436
+======================
+
+DBG-ADDR<7bf6f816>("ntdll.dll")
+DBG-ADDR<7bc62f11>("kernelbase.dll")
+DBG-ADDR<529f78>("Battle.net-Setup.exe")
+DBG-ADDR<52921c>("Battle.net-Setup.exe")
+DBG-ADDR<5291bb>("Battle.net-Setup.exe")
+DBG-ADDR<5290df>("Battle.net-Setup.exe")
+DBG-ADDR<5292e9>("Battle.net-Setup.exe")
+DBG-ADDR<43b343>("Battle.net-Setup.exe")
+DBG-ADDR<4bbabe>("Battle.net-Setup.exe")
+DBG-ADDR<4b7809>("Battle.net-Setup.exe")
+DBG-ADDR<43b4a8>("Battle.net-Setup.exe")
+
+Thread 12/16 - Thread Id: 464
+======================
+
+DBG-ADDR<7bf6f816>("ntdll.dll")
+DBG-ADDR<7bc62f11>("kernelbase.dll")
+DBG-ADDR<529f78>("Battle.net-Setup.exe")
+DBG-ADDR<52921c>("Battle.net-Setup.exe")
+DBG-ADDR<5291bb>("Battle.net-Setup.exe")
+DBG-ADDR<5290df>("Battle.net-Setup.exe")
+DBG-ADDR<5292e9>("Battle.net-Setup.exe")
+DBG-ADDR<43b343>("Battle.net-Setup.exe")
+DBG-ADDR<4bbabe>("Battle.net-Setup.exe")
+DBG-ADDR<4b7809>("Battle.net-Setup.exe")
+DBG-ADDR<43b4a8>("Battle.net-Setup.exe")
+
+Thread 13/16 - Thread Id: 468
+======================
+
+DBG-ADDR<7bc70231>("kernelbase.dll")
+DBG-ADDR<7b22184d>("WS2_32.dll")
+DBG-ADDR<4bad7e>("Battle.net-Setup.exe")
+DBG-ADDR<4a3a5f>("Battle.net-Setup.exe")
+DBG-ADDR<4b5227>("Battle.net-Setup.exe")
+DBG-ADDR<4da178>("Battle.net-Setup.exe")
+DBG-ADDR<43b4a8>("Battle.net-Setup.exe")
+
+Thread 14/16 - Thread Id: 508
+======================
+
+DBG-ADDR<7bc701e2>("kernelbase.dll")
+DBG-ADDR<46796e>("Battle.net-Setup.exe")
+DBG-ADDR<503d5e>("Battle.net-Setup.exe")
+DBG-ADDR<46b757>("Battle.net-Setup.exe")
+
+Thread 15/16 - Thread Id: 748
+======================
+
+
+Thread 16/16 - Thread Id: 752
+======================
+
+DBG-ADDR<7bf6f76c>("ntdll.dll")
+DBG-ADDR<7bfa103a>("ntdll.dll")
+
+<Exception.DebugModules:>
+DBG-MODULE<00400000 0050f000 "Battle.net-Setup.exe" "Bootstrapper.pdb" 0 {f04103d0-3722-4b61-99a39a96df019b0e} 1 1691113453>
+DBG-MODULE<7BF40000 000ad000 "ntdll.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7BEC0000 00065000 "kernel32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7BC00000 002a3000 "kernelbase.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7BB80000 0006d000 "UIAutomationCore.DLL" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7BA50000 00114000 "ole32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B9F0000 00042000 "advapi32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7B920000 000b2000 "msvcrt.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B8E0000 00028000 "sechost.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7B7E0000 000e2000 "ucrtbase.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B780000 0004d000 "combase.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B6E0000 00087000 "gdi32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B510000 001b2000 "user32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7B4D0000 00030000 "win32u.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7B430000 00085000 "rpcrt4.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B400000 00013000 "coml2.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7B3A0000 00042000 "oleacc.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B270000 00112000 "oleaut32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7B250000 00009000 "MSIMG32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7B210000 00028000 "WS2_32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7B1F0000 0000c000 "VERSION.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A8B0000 0092a000 "SHELL32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A850000 00049000 "shlwapi.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A820000 00016000 "shcore.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A7E0000 00027000 "WINTRUST.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A6F0000 000d5000 "crypt32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A6C0000 00015000 "bcrypt.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A620000 00086000 "WININET.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A5F0000 0001e000 "mpr.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A5A0000 0003f000 "WINHTTP.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A570000 00015000 "jsproxy.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A540000 0001c000 "imm32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A510000 00020000 "secur32.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A4D0000 00024000 "iphlpapi.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A4A0000 00014000 "dnsapi.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A480000 0000b000 "nsi.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A460000 0000a000 "dhcpcsvc.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A430000 00016000 "winex11.drv" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A3E0000 00036000 "uxtheme.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<7A3C0000 0000f000 "imagehlp.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A340000 00067000 "dbghelp.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+DBG-MODULE<7A2F0000 00032000 "rsaenh.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531480>
+DBG-MODULE<79C50000 0000a000 "psapi.dll" "" 0 {00000000-0000-0000-0000000000000000} 0 1708531479>
+
+<:Exception.DebugModules>
+
+
+------------------------------------------------------------------------------
+
+----------------------------------------
+    x86 Registers
+----------------------------------------
+
+      EAX = 80750004      EBX = 01a92bc0      ECX = 00000000      EDX = 00000000
+      ESI = 00000000      EDI = 00c0f3f8      EBP = 00c0f2c0      ESP = 00c0f2a0
+      EIP = 7b2e36c7      FLG = 00010282       CS = 0023       DS = 002b
+       ES = 002b       FS = 0063       GS = 006b       SS = 002b
+
+
+----------------------------------------
+    Memory Dump
+----------------------------------------
+
+Code: 16 bytes starting at (EIP = 7B2E36C7)
+
+7B2E36C7: 8B 10 89 04  24 FF 52 08  83 EC 04 89  73 FC 31 C0  ....$.R.....s.1.
+
+
+Stack: 1024 bytes starting at (ESP = 00C0F2A0)
+
+00C0F2A0: C0 2B BB 7B  00 00 00 00  E0 F2 C0 00  D0 6F AE 01  .+.{.........o..
+00C0F2B0: 78 31 AB 01  01 00 00 00  C0 2B A9 01  B0 2B A9 01  x1.......+...+..
+00C0F2C0: E4 F2 C0 00  28 28 2E 7B  C0 2B A9 01  00 00 00 00  ....((.{.+......
+00C0F2D0: B4 29 2E 7B  C0 2B A9 01  C0 2B A9 01  C0 2B A9 01  .).{.+...+...+..
+00C0F2E0: F8 F3 C0 00  04 F3 C0 00  31 26 2E 7B  C0 2B A9 01  ........1&.{.+..
+00C0F2F0: 00 F3 C0 00  F8 F3 C0 00  44 F3 C0 00  F8 F3 C0 00  ........D.......
+00C0F300: 44 F3 C0 00  A8 F3 C0 00  D8 D8 B9 7B  C0 2B A9 01  D..........{.+..
+00C0F310: 44 F3 C0 00  48 F3 C0 00  08 00 00 00  84 F3 C0 00  D...H...........
+00C0F320: 47 6D F5 7B  78 31 AB 01  00 00 00 00  E0 28 2E 7B  Gm.{x1.......(.{
+00C0F330: 0A 10 00 00  04 00 00 00  18 31 AB 01  04 AD 3B 01  .........1....;.
+00C0F340: C0 2B A9 01  F0 D5 8A 71  98 F3 C0 00  98 F3 C0 00  .+.....q........
+00C0F350: 98 F3 C0 00  74 F3 C0 00  E6 16 50 00  88 AD 3B 01  ....t.....P...;.
+00C0F360: 98 F3 C0 00  D0 2D 50 00  00 00 00 00  18 31 AB 01  .....-P......1..
+00C0F370: DC F3 C0 00  E0 2A A9 01  AC F3 C0 00  27 BA B9 7B  .....*......'..{
+00C0F380: 18 31 AB 01  00 00 00 00  06 00 00 00  40 00 0B 01  .1..........@...
+00C0F390: A4 F3 C0 00  04 AD 3B 01  B4 F3 C0 00  00 00 00 00  ......;.........
+00C0F3A0: 08 9E BB 7B  F8 F3 C0 00  D0 F3 C0 00  60 92 B8 7B  ...{........`..{
+00C0F3B0: 60 92 B8 7B  18 31 AB 01  08 9E BB 7B  F8 F3 C0 00  `..{.1.....{....
+00C0F3C0: 18 31 AB 01  E0 2A A9 01  08 9E BB 7B  00 00 00 00  .1...*.....{....
+00C0F3D0: 18 F4 C0 00  60 37 B8 7B  F8 F3 C0 00  02 00 00 00  ....`7.{........
+00C0F3E0: 00 00 00 00  00 AD 3B 01  01 00 00 00  1C F4 C0 00  ......;.........
+00C0F3F0: 36 75 B8 7B  B0 F4 C0 00  00 00 00 00  00 00 00 00  6u.{............
+00C0F400: 00 00 00 00  00 00 00 00  24 F4 C0 00  00 00 00 00  ........$.......
+00C0F410: 40 E3 A8 01  A4 F4 C0 00  44 F4 C0 00  70 EB B9 7B  @.......D...p..{
+00C0F420: 70 EB B9 7B  E0 2A A9 01  B0 F4 C0 00  00 00 00 00  p..{.*..........
+00C0F430: 00 00 00 00  00 00 00 00  58 09 AA 01  58 09 AA 01  ........X...X...
+00C0F440: 00 00 00 00  80 F4 C0 00  47 5B B9 7B  40 E3 A8 01  ........G[.{@...
+00C0F450: A4 F4 C0 00  08 BA A9 01  0A 10 00 00  E8 B9 A9 01  ................
+00C0F460: 58 09 AA 01  01 00 00 00  38 09 AA 01  58 09 AA 01  X.......8...X...
+00C0F470: 25 4E 00 00  00 00 00 00  08 BA A9 01  A8 8D BB 7B  %N.............{
+00C0F480: C4 F4 C0 00  82 4C B8 7B  25 4E 00 00  E0 EA B9 7B  .....L.{%N.....{
+00C0F490: A4 F4 C0 00  00 00 00 00  90 4B B8 7B  24 00 00 00  .........K.{$...
+00C0F4A0: 02 00 00 00  00 AD 3B 01  08 BA A9 01  00 00 00 00  ......;.........
+00C0F4B0: 00 00 00 00  E0 2A A9 01  90 4B B8 7B  00 AD 3B 01  .....*...K.{..;.
+00C0F4C0: 25 4E 00 00  E8 F4 C0 00  BC 12 50 00  00 AD 3B 01  %N........P...;.
+00C0F4D0: 25 4E 00 00  B0 02 34 01  E8 FA C0 00  7C F6 C0 00  %N....4.....|...
+00C0F4E0: 58 9C 2B 01  B0 02 34 01  70 F6 C0 00  8B F1 40 00  X.+...4.p.....@.
+00C0F4F0: E8 FA C0 00  00 00 00 00  28 1F 57 00  3A 35 2A 32  ........(.W.:5*2
+00C0F500: 5C 00 00 00  1C 49 28 01  01 00 00 00  90 00 00 00  \....I(.........
+00C0F510: 5C 00 00 00  FC F4 C0 00  FF FF FF FF  80 F5 C0 00  \...............
+00C0F520: 30 48 55 00  16 D4 94 32  FE FF FF FF  28 1F 57 00  0HU....2....(.W.
+00C0F530: 17 6F 56 00  03 00 00 00  C0 8C 28 01  5C 00 00 00  .oV.......(.\...
+00C0F540: EC 76 28 01  01 00 00 00  54 F5 C0 00  76 76 56 00  .v(.....T...vvV.
+00C0F550: 30 49 28 01  90 F5 C0 00  35 6E 56 00  10 49 28 01  0I(.....5nV..I(.
+00C0F560: 25 6E 56 00  86 35 2A 32  EC 76 28 01  FF FF FF FF  %nV..5*2.v(.....
+00C0F570: 00 00 15 00  00 10 16 00  02 00 00 00  80 00 16 00  ................
+00C0F580: 00 00 15 00  00 00 00 00  00 00 15 00  00 10 16 00  ................
+00C0F590: 00 00 15 00  00 10 16 00  02 00 00 00  40 00 16 00  ............@...
+00C0F5A0: 00 00 15 00  00 00 00 00  00 00 00 00  F0 F5 C0 00  ................
+00C0F5B0: 1F 15 F6 7B  05 D3 40 00  E8 76 28 01  F8 02 34 01  ...{..@..v(...4.
+00C0F5C0: 02 00 00 00  00 00 00 00  20 F7 C0 00  98 F6 C0 00  ........ .......
+00C0F5D0: E4 F5 C0 00  78 A9 3B 01  02 00 00 00  80 AD 3B 01  ....x.;.......;.
+00C0F5E0: 02 00 00 00  00 00 00 00  B0 F6 C0 00  98 F6 C0 00  ................
+00C0F5F0: 04 F6 C0 00  EF E6 56 00  00 00 15 00  00 00 00 00  ......V.........
+00C0F600: 88 AD 3B 01  14 F6 C0 00  4C BC 55 00  88 AD 3B 01  ..;.....L.U...;.
+00C0F610: 00 00 00 00  20 F6 C0 00  9B B6 53 00  88 AD 3B 01  .... .....S...;.
+00C0F620: 30 F6 C0 00  E2 64 40 00  88 AD 3B 01  20 00 00 00  0....d@...;. ...
+00C0F630: 80 F6 C0 00  D9 63 40 00  88 AD 3B 01  20 00 00 00  .....c@...;. ...
+00C0F640: 98 F6 C0 00  9F 61 43 00  94 F6 C0 00  E8 FA C0 00  .....aC.........
+00C0F650: E8 FA C0 00  68 F8 C0 00  E8 71 2A 01  78 65 40 00  ....h....q*.xe@.
+00C0F660: 7C F6 C0 00  80 F8 C0 00  FC 8E 6B 00  FF FF FF FF  |.........k.....
+00C0F670: 8C F8 C0 00  BA 00 41 00  59 EF 40 00  00 00 00 00  ......A.Y.@.....
+00C0F680: BA 00 41 00  68 F8 C0 00  E8 FA C0 00  E8 FA C0 00  ..A.h...........
+00C0F690: 00 00 00 00  70 E4 26 01  00 61 69 6E  00 F6 C0 00  ....p.&..ain....
+
+
+------------------------------------------------------------------------------
