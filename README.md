@@ -1,3 +1,15 @@
+The game and the opening that explains oh so much.
+
+i have so many fucking stories about what the fuck has been going on. Its
+basially over except the government wont talk to me still and they are still
+preventing me from working etc. Its stupid.
+
+https://www.youtube.com/watch?v=BC7Gj3ecB-g
+FF9 opening 
+
+
+
+
 OPEN THE README AND IT WILL HAVE THE NEWLINES (enter)
 GO TO THE README IN THE FILES AND CLICK RAW TO SEE THE FILE ON THE WEBBROWSER
 ACCURATELY AND CLEANLY
