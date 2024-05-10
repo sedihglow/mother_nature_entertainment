@@ -1,6 +1,6 @@
 Uhh.. heres where the path is.
 
-./MAP.png
+/MAP.png
 
 also,
 
